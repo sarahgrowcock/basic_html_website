@@ -1,0 +1,34 @@
+html{
+    background-color: #F2C6A0;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: #591218;
+}
+
+p{
+    color: #261721;
+}
+
+a{
+    color: #D9896C;
+}
+
+img{
+    width: 50%;
+}
+
+h2{
+    color: #BF3C30;
+}
+
+table, th, td{
+    border: #591218 2px solid;
+    color: #261721;
+}
+
+td{
+    padding: 0 1rem;
+}
